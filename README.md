@@ -18,6 +18,19 @@ tion to this we also carried out a Reddit case
  the models that we used on the actual set and
  analyzed the results.
 
+ **Introduction**
+ With the developments in the field of chatbots
+ which could mimic the human language, there’s
+ a high ground for the models to be used as part
+ of the deep fakes. Thus in this project we have
+ analyzed various prior work in order to solve the
+ following three questions.
+ 1. Same or not: Whether the generated text is
+ from the same NLG method (human) or not.
+ 2. Human vs bot: Whether the text is from a
+ human or an NLG method.
+ 3. Which NLGmethod: Whetherthetext is from
+ the ith NLG method from a set of k methods
 
 
 The datasets are available in the Datasets folder. One has to download them and the code files for all the three tasks are also available in the code files folder. There codes available specifically for each balanced as well as the imbalanced dataset for the tasks 1 and 2, in case of 3rd task the files are available but the dataset is made available in the zip format please unzip it before use. Also the see the naming convention for each file.
