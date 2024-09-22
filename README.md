@@ -43,7 +43,7 @@ Naming convention for task 2: task2p1 + dataset_type(balnaced or imbalance) + mo
 
 Naming convention for task 3: task3 + model_type(there are four of them)
 
-Naming convention for reddit task 1: task1 + dataset_type(balnaced or imbalance) + model_type(there are 4 models) + reddit
+Naming convention for reddit task 1: task1 + dataset_type(balanced or imbalance) + model_type(there are 4 models) + reddit
 
 Note: For the reddit task 1 XG Boost methods the naming convention is as follows task1 + XBBoost + reddit +balanced_imbalanced
 
