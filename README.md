@@ -35,7 +35,7 @@ tion to this we also carried out a Reddit case
 
 The datasets are available in the Datasets folder. One has to download them and the code files for all the three tasks are also available in the code files folder. There codes available specifically for each balanced as well as the imbalanced dataset for the tasks 1 and 2, in case of 3rd task the files are available but the dataset is made available in the zip format please unzip it before use. Also the see the naming convention for each file.
 
-Naming convention for task 1: task1 + dataset_type(balnaced or imbalance) + model_type(there are 4 models) 
+Naming convention for task 1: task1 + dataset_type(balanced or imbalance) + model_type(there are 4 models) 
 
 Note: For the task 1 XG Boost methods the naming convention is as follows task1 + XGBoost_balanced_imbalanced
 
