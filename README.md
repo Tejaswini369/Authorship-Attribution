@@ -37,7 +37,7 @@ The datasets are available in the Datasets folder. One has to download them and 
 
 Naming convention for task 1: task1 + dataset_type(balnaced or imbalance) + model_type(there are 4 models) 
 
-Note: For the task 1 XG Boost methods the naming convention is as follows task1 + XBBoost_balanced_imbalanced
+Note: For the task 1 XG Boost methods the naming convention is as follows task1 + XGBoost_balanced_imbalanced
 
 Naming convention for task 2: task2p1 + dataset_type(balnaced or imbalance) + model_type(there are 4 models) 
 
